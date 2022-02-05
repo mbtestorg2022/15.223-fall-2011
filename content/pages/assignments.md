@@ -9,11 +9,78 @@ The case write-ups should be brief, no more than 3 double-spaced pages. You may 
 Cases
 -----
 
-| SES # | CASES |
-| --- | --- |
-| 4 | Vietor, Richard H. K., and Emily J. Thompson. "[Singapore Inc.](http://hbr.org/product/singapore-inc/an/703040-PDF-ENG)" Harvard Business School Case. Harvard Business School Publishing. Case: 9-703-040, August 11, 2003. |
-| 5 |  {{< br >}}{{< br >}} Huang, Yasheng. "[Note on Conflict Diamonds: Why Are Civil Wars, Like Diamonds, Forever?](http://hbr.org/product/note-on-conflict-diamonds-why-are-civil-wars-like-/an/702027-PDF-ENG)" Harvard Business School Case. Harvard Business School Publishing. Case: 9-702-027, January 09, 2002. {{< br >}}{{< br >}} Alfaro, Laura, Vinati Dev, et el. "[Botswana: A Diamond in The Rough](http://hbr.org/product/botswana-a-diamond-in-the-rough/an/703027-PDF-ENG?Ntt=Botswana%253A%2520A%2520Diamond%2520in%2520The%2520Rough)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-703-027, March 31, 2003. {{< br >}}{{< br >}}  |
-| 6 | Abdelal, Rawi, Laura Alfaro, et al. "[Bombardier: Canada vs. Brazil at The WTO](http://hbr.org/product/bombardier-canada-vs-brazil-at-the-wto/an/703022-HCB-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-703-022, February 20, 2003. |
-| 7 | Bartlett, Nicholas, and Debora L. Spar. "[Life, Death, and Property Rights: The Pharmaceutical Industry Faces AIDS in Africa](http://hbr.org/product/life-death-and-property-rights-the-pharmaceutical-/an/702049-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-702-049, June 13, 2002. |
-| 9 | Mure, Lane La, and Debora L. Spar. "[The Burma Pipeline](http://hbr.org/product/burma-pipeline/an/798078-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-798-078, February 25, 1998. |
-| 10 | Diermeier, Daniel. "Shell, Greenpeace and Brent Spar." In _Business and Its Environment_. 4th ed. Edited by David P. Baron. Prentice Hall, 2002, pp. 109–13. ISBN: 9780130470645.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+CASES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Vietor, Richard H. K., and Emily J. Thompson. "[Singapore Inc.](http://hbr.org/product/singapore-inc/an/703040-PDF-ENG)" Harvard Business School Case. Harvard Business School Publishing. Case: 9-703-040, August 11, 2003.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Huang, Yasheng. "[Note on Conflict Diamonds: Why Are Civil Wars, Like Diamonds, Forever?](http://hbr.org/product/note-on-conflict-diamonds-why-are-civil-wars-like-/an/702027-PDF-ENG)" Harvard Business School Case. Harvard Business School Publishing. Case: 9-702-027, January 09, 2002.
+
+Alfaro, Laura, Vinati Dev, et el. "[Botswana: A Diamond in The Rough](http://hbr.org/product/botswana-a-diamond-in-the-rough/an/703027-PDF-ENG?Ntt=Botswana%253A%2520A%2520Diamond%2520in%2520The%2520Rough)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-703-027, March 31, 2003.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Abdelal, Rawi, Laura Alfaro, et al. "[Bombardier: Canada vs. Brazil at The WTO](http://hbr.org/product/bombardier-canada-vs-brazil-at-the-wto/an/703022-HCB-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-703-022, February 20, 2003.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Bartlett, Nicholas, and Debora L. Spar. "[Life, Death, and Property Rights: The Pharmaceutical Industry Faces AIDS in Africa](http://hbr.org/product/life-death-and-property-rights-the-pharmaceutical-/an/702049-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-702-049, June 13, 2002.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Mure, Lane La, and Debora L. Spar. "[The Burma Pipeline](http://hbr.org/product/burma-pipeline/an/798078-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-798-078, February 25, 1998.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Diermeier, Daniel. "Shell, Greenpeace and Brent Spar." In _Business and Its Environment_. 4th ed. Edited by David P. Baron. Prentice Hall, 2002, pp. 109–13. ISBN: 9780130470645.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
