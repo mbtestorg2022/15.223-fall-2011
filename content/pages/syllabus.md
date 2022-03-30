@@ -20,7 +20,7 @@ This course provides students with the conceptual tools necessary to understand 
 *   Discussing efforts to construct "rules of the game" for the global economy. In particular we will examine contemporary debates and controversies surrounding financial markets, intellectual property rights, trade policies and labor and environmental standards.
 *   Developing conceptual tools and frameworks that help make sense of our increasingly global, complex and crisis-prone world.
 
-This course is part two of a two part course series, and should be preceded by [_15.015 Macro and International Economics_](/courses/15-015-macro-and-international-economics-fall-2011/).
+This course is part two of a two part course series, and should be preceded by [_15.015 Macro and International Economics_](/courses/15-015-macro-and-international-economics-fall-2011).
 
 Readings
 --------
